@@ -1,5 +1,5 @@
 public class ConectarMySQL {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //comentario
         // Cargar el controlador JDBC de MySQL
         try {
             // Registrar el driver JDBC
